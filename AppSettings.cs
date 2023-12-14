@@ -1,0 +1,1 @@
+const string connectionString = "data source=localhost\\MSSQLSERVER01;initial catalog=AdventureWorks2022;integrated security=True;MultipleActiveResultSets=True;TrustServerCertificate=true;";
