@@ -1,4 +1,4 @@
-# Dapper Cookbook
+# Dapper Recipes
 
 The Dapper Recipes are for developers who want to quickly learn how to use the Dapper in C# by examples. Each recipe is designed to focus on solving specific problems or tasks.
 
@@ -30,6 +30,7 @@ __Quick start__:
 
 * [How to use stored procedures](How-to-use-stored-procedures.ipynb)
 * [How to use custom SQL](How-to-use-custom-SQL.ipynb)
+* [How to use temporary tables](How-to-use-temporary-tables.ipynb)
 * [How to handle transactions and concurrency](How-to-handle-transactions-and-concurrency.ipynb)
 * [How to run multiple queries simultaneously and bind the result](How-to-run-multiple-queries-simultaneously-and-bind-the-result.ipynb)
 * [How to use multi-mapping and multiple results](How-to-use-multi-mapping-and-multiple-results.ipynb)
